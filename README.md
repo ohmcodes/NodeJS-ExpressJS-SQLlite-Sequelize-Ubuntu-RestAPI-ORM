@@ -18,9 +18,9 @@ https://www.youtube.com/watch?v=VDgXAw7VynQ&feature=emb_logo&ab_channel=DavidTan
 - Postman
 
 ## Resources
-[Sequilize docs]: https://sequelize.org/master/index.html
-[Sqlite3 Sample Database]: https://www.sqlitetutorial.net/sqlite-sample-database/
-[Postman]: https://www.postman.com/downloads/
+[Sequilize docs](https://sequelize.org/master/index.html)
+[Sqlite3 Sample Database](https://www.sqlitetutorial.net/sqlite-sample-database/)
+[Postman](https://www.postman.com/downloads/)
 
 
 ## Install
