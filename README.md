@@ -23,7 +23,7 @@ npm i express sequelize sqlite3 body-parser --save
 npm install --save-dev nodemon
 ```
 
-## Start nodemod
+## Start nodemon
 ```
 npx nodemon app.js
 ```
