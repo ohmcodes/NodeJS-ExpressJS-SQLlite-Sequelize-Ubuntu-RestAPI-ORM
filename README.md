@@ -7,15 +7,15 @@ Here's the orignal video (must watch if you are iOS user):
 https://www.youtube.com/watch?v=VDgXAw7VynQ&feature=emb_logo&ab_channel=DavidTang
 
 ## Requirements
-    - NodeJS
-    - ExpressJS
-    - SQLite3
-    - Sequelize
-    - Ubuntu20
-    - Nodemon
-    - Unzip
-    - body-parser
-    - Postman DL [https://www.postman.com/downloads/]: https://www.postman.com/downloads/
+- NodeJS
+- ExpressJS
+- SQLite3
+- Sequelize
+- Ubuntu20
+- Nodemon
+- Unzip
+- body-parser
+- Postman DL [https://www.postman.com/downloads/]: https://www.postman.com/downloads/
 
 ## Install
 ```
