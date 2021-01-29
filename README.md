@@ -15,7 +15,7 @@ https://www.youtube.com/watch?v=VDgXAw7VynQ&feature=emb_logo&ab_channel=DavidTan
     - Nodemon
     - Unzip
     - body-parser
-    - Postman DL[https://www.postman.com/downloads/]
+    - Postman DL [https://www.postman.com/downloads/]: https://www.postman.com/downloads/
 
 ## Install
 ```
